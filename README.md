@@ -3,11 +3,11 @@
 1. Настройка Git: глобальная и локальная
 
 -   Глобальные настройки:
-    `git config --global user.name "[Ваше имя]"
-git config --global user.email "[Ваш email]"`
+    `git config --global user.name "[Ваше имя]"`
+    `git config --global user.email "[Ваш email]"`
 -   Локальные настройки:
-    `git config --local user.name "[Ваше имя]"
-git config --local user.email "[Ваш email]"`
+    `git config --local user.name "[Ваше имя]"`
+    `git config --local user.email "[Ваш email]"`
 
 2. Базовые команды Git
 
